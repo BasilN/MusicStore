@@ -6,3 +6,11 @@ c:\users\basiln\documents\visual studio 2010\Projects\MusicStore\MusicStore\obj\
 c:\users\basiln\documents\visual studio 2010\Projects\MusicStore\MusicStore\obj\Debug\MusicStore.dll
 c:\users\basiln\documents\visual studio 2010\Projects\MusicStore\MusicStore\obj\Debug\MusicStore.pdb
 c:\users\basiln\documents\visual studio 2010\Projects\MusicStore\MusicStore\bin\System.Data.SqlServerCe.Entity.dll
+C:\Projects\MusicStore\MusicStore\bin\MusicStore.dll
+C:\Projects\MusicStore\MusicStore\bin\MusicStore.pdb
+C:\Projects\MusicStore\MusicStore\bin\EntityFramework.dll
+C:\Projects\MusicStore\MusicStore\bin\System.Data.SqlServerCe.Entity.dll
+C:\Projects\MusicStore\MusicStore\bin\EntityFramework.xml
+C:\Projects\MusicStore\MusicStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\MusicStore\MusicStore\obj\Debug\MusicStore.dll
+C:\Projects\MusicStore\MusicStore\obj\Debug\MusicStore.pdb
