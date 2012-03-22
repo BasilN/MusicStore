@@ -14,3 +14,11 @@ C:\Projects\MusicStore\MusicStore\bin\EntityFramework.xml
 C:\Projects\MusicStore\MusicStore\obj\Debug\ResolveAssemblyReference.cache
 C:\Projects\MusicStore\MusicStore\obj\Debug\MusicStore.dll
 C:\Projects\MusicStore\MusicStore\obj\Debug\MusicStore.pdb
+C:\musicstore-4\MusicStore\bin\MusicStore.dll
+C:\musicstore-4\MusicStore\bin\MusicStore.pdb
+C:\musicstore-4\MusicStore\bin\EntityFramework.dll
+C:\musicstore-4\MusicStore\bin\System.Data.SqlServerCe.Entity.dll
+C:\musicstore-4\MusicStore\bin\EntityFramework.xml
+C:\musicstore-4\MusicStore\obj\Debug\ResolveAssemblyReference.cache
+C:\musicstore-4\MusicStore\obj\Debug\MusicStore.dll
+C:\musicstore-4\MusicStore\obj\Debug\MusicStore.pdb
