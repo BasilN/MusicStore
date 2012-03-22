@@ -22,3 +22,11 @@ C:\musicstore-4\MusicStore\bin\EntityFramework.xml
 C:\musicstore-4\MusicStore\obj\Debug\ResolveAssemblyReference.cache
 C:\musicstore-4\MusicStore\obj\Debug\MusicStore.dll
 C:\musicstore-4\MusicStore\obj\Debug\MusicStore.pdb
+C:\Users\basiln\Documents\MusicStore\MusicStore\bin\MusicStore.dll
+C:\Users\basiln\Documents\MusicStore\MusicStore\bin\MusicStore.pdb
+C:\Users\basiln\Documents\MusicStore\MusicStore\bin\EntityFramework.dll
+C:\Users\basiln\Documents\MusicStore\MusicStore\bin\System.Data.SqlServerCe.Entity.dll
+C:\Users\basiln\Documents\MusicStore\MusicStore\bin\EntityFramework.xml
+C:\Users\basiln\Documents\MusicStore\MusicStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\basiln\Documents\MusicStore\MusicStore\obj\Debug\MusicStore.dll
+C:\Users\basiln\Documents\MusicStore\MusicStore\obj\Debug\MusicStore.pdb
