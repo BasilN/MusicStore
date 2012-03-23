@@ -1,0 +1,5 @@
+<Configuration>
+  <NamespaceFolders>
+    <SkipFolder>8A1BF02B-CCE8-48B2-89F8-87C157AC139D/d:App_Data</SkipFolder>
+  </NamespaceFolders>
+</Configuration>

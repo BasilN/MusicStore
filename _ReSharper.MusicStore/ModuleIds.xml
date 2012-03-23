@@ -1,5 +1,5 @@
 <Modules>
   <Module PersistentId="8A1BF02B-CCE8-48B2-89F8-87C157AC139D" ModuleId="MusicStore" />
-  <Module PersistentId="EntityFramework, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="EntityFramework" />
-  <Module PersistentId="System.Web.Mvc, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="System.Web.Mvc" />
+  <Module PersistentId="d:Miscellaneous Files" ModuleId="EntityFramework" />
+  <Module PersistentId="System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Configuration" />
 </Modules>
