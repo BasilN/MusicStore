@@ -30,3 +30,10 @@ C:\Users\basiln\Documents\MusicStore\MusicStore\bin\EntityFramework.xml
 C:\Users\basiln\Documents\MusicStore\MusicStore\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\basiln\Documents\MusicStore\MusicStore\obj\Debug\MusicStore.dll
 C:\Users\basiln\Documents\MusicStore\MusicStore\obj\Debug\MusicStore.pdb
+C:\Users\Basil\Documents\GitHub\MusicStore\MusicStore\bin\MusicStore.dll
+C:\Users\Basil\Documents\GitHub\MusicStore\MusicStore\bin\MusicStore.pdb
+C:\Users\Basil\Documents\GitHub\MusicStore\MusicStore\bin\EntityFramework.dll
+C:\Users\Basil\Documents\GitHub\MusicStore\MusicStore\bin\EntityFramework.xml
+C:\Users\Basil\Documents\GitHub\MusicStore\MusicStore\obj\Debug\MusicStore.csprojResolveAssemblyReference.cache
+C:\Users\Basil\Documents\GitHub\MusicStore\MusicStore\obj\Debug\MusicStore.dll
+C:\Users\Basil\Documents\GitHub\MusicStore\MusicStore\obj\Debug\MusicStore.pdb
